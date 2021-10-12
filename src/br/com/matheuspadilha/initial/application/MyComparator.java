@@ -1,8 +1,8 @@
-package br.com.matheuspadilha;
+package br.com.matheuspadilha.initial.application;
 
 import java.util.Comparator;
 
-import br.com.matheuspadilha.entities.Product;
+import br.com.matheuspadilha.initial.entities.Product;
 
 public class MyComparator implements Comparator<Product> {
 

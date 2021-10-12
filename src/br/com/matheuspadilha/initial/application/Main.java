@@ -1,6 +1,6 @@
-package br.com.matheuspadilha;
+package br.com.matheuspadilha.initial.application;
 
-import br.com.matheuspadilha.entities.Product;
+import br.com.matheuspadilha.initial.entities.Product;
 
 import java.util.ArrayList;
 import java.util.List;
