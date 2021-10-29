@@ -4,3 +4,5 @@
  ✔️ Exemplos com a Interface Predicate  
  ✔️ Exemplos com a Interface Function  
  ✔️ Exemplos com Stream API
+ 
+ Apenas para fins de estudo.
