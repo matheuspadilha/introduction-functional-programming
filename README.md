@@ -1,4 +1,4 @@
-# Poc em Java com alguns exemplos de programação funcional utilizando.
+# Poc em Java com alguns exemplos de programação funcional.
 
  ✔️ Exemplos com a Interface Consumer  
  ✔️ Exemplos com a Interface Predicate  
