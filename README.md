@@ -5,4 +5,4 @@
  ✔️ Exemplos com a Interface Function  
  ✔️ Exemplos com Stream API
  
- Apenas para fins de estudo.
+ Apenas para fins de conhecimento.
